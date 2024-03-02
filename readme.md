@@ -79,7 +79,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Eloquent Query Scopes |:book: [Eloquent: Query Scopes](https://laravel.com/docs/eloquent#query-scopes) <br> :clapper: [Same Eloquent Where Condition? Refactor into Local Scopes](https://www.youtube.com/watch?v=90xGUIuZsHE) <br>|
 | Polymorphic relationships |:book: [Polymorphic Relationships](https://laravel.com/docs/eloquent-relationships#polymorphic-relationships) <br> :clapper: [Laravel.io Portal: Polymorphic Relations Example](https://www.youtube.com/watch?v=EjJaNGW7vAg) <br>|
 | Eloquent Accessors and Mutators |:book: [Accessors & Mutators](https://laravel.com/docs/eloquent-mutators#accessors-and-mutators) <br>|
-| Eloquent Collections |:book: [Eloquent Collections XX](https://laravel.com/docs/eloquent-collections) <br>:book: [General Laravel Collections](https://laravel.com/docs/collections) <br>|
+| Eloquent Collections XX |:book: [Eloquent Collections](https://laravel.com/docs/eloquent-collections) <br>:book: [General Laravel Collections](https://laravel.com/docs/collections) <br>|
 | Soft Deletes |:book: [Soft Deleting](https://laravel.com/docs/eloquent#soft-deleting) <br>|
 | **Auth Advanced** ||
 | Authorization: Roles/Permissions, Gates, Policies |:book: [Authorization](https://laravel.com/docs/authorization) <br>:clapper: [Laravel Roles and Permissions: All CORE Things You Need To Know](https://www.youtube.com/watch?v=kZOgH3-0Bko) <br> [More videos](videos/authorization-roles-permissions-gates-policies.md)|
